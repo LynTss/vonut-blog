@@ -9,16 +9,6 @@
     "desc": "Markcook, a smart and beautiful markdown editor",
     "cover": "markcook.png"
   },
-  "scion.md": {
-    "title": "Scion",
-    "tags": [
-      "javascript",
-      "nodejs"
-    ],
-    "date": "2016-07-01",
-    "desc": "A light tool to generate projects in an easy way",
-    "cover": "scion.png"
-  },
   "motto.md": {
     "title": "Motto",
     "tags": [
@@ -29,6 +19,16 @@
     "date": "2016-08-05",
     "desc": "Show your motto in an amazing way!",
     "cover": "motto.png"
+  },
+  "scion.md": {
+    "title": "Scion",
+    "tags": [
+      "javascript",
+      "nodejs"
+    ],
+    "date": "2016-07-01",
+    "desc": "A light tool to generate projects in an easy way",
+    "cover": "scion.png"
   },
   "sphinx.md": {
     "title": "Sphinx",
